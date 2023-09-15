@@ -1,0 +1,29 @@
+* {
+		font-family: "Roboto", "serif";
+}
+
+.filter-input {
+		width: 60%;
+}
+
+.task {
+    border-radius: 5px;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #939697;
+    cursor: pointer;
+    background-color: #fafafa;
+    height: 50px;
+    margin-bottom: 8px;
+    padding: 5px 10px;
+    display: flex;
+		overflow-wrap: break-word;
+		overflow: hidden;
+}
+
+.task a {
+		padding: 10px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
